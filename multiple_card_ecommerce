@@ -1,0 +1,84 @@
+<div class=" min-h-screen flex justify-around items-center bg-gradient-to-r from-red-200 to-red-100 ">
+  <section class="pt-5 md:flex justify-center items-center px-2 ">
+  <div class="bg-white w-80 h-95  flex-col justify-center rounded-lg m-2">
+    
+    <div><img class="rounded-t-lg" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80" alt="image"></div>
+    <div class="flex justify-start pl-2 px-auto">
+      <div class="text-lg font-semibold capitalize">brand name</div>
+      
+    </div>
+     <div class="flex justify-center px-auto">
+      <div class="flex justify-start text-md text-gray-500 font-semibold capitalize  w-full px-2 h-10 overflow-hidden">product description </div>
+    </div>
+      <div class="flex justify-between px-2">
+      <div class="text-base font-semibold mt-2">₹1,099</div>
+      <button class="bg-yellow-300 h-8 w-24 rounded hover:bg-yellow-400 hover:scale-110">Add Cart</button>
+    </div>
+    <div class="flex justify-center mt-4 mb-4">
+      
+    </div>
+
+    
+  </div>
+  <div class="bg-white w-80 h-95  flex-col justify-center rounded-lg m-2">
+    
+    <div><img class="rounded-t-lg" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80" alt="image"></div>
+    <div class="flex justify-start pl-2 px-auto">
+      <div class="text-lg font-semibold capitalize">brand name</div>
+      
+    </div>
+     <div class="flex justify-center px-auto">
+      <div class="flex justify-start text-md text-gray-500 font-semibold capitalize  w-full px-2 h-10 overflow-hidden">product description </div>
+    </div>
+      <div class="flex justify-between px-2">
+      <div class="text-base font-semibold mt-2">₹1,099</div>
+      <button class="bg-yellow-300 h-8 w-24 rounded hover:bg-yellow-400 hover:scale-110">Add Cart</button>
+    </div>
+    <div class="flex justify-center mt-4 mb-4">
+      
+    </div>
+
+    
+  </div>
+  <div class="bg-white w-80 h-95  flex-col justify-center rounded-lg m-2">
+    
+    <div><img class="rounded-t-lg" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80" alt="image"></div>
+    <div class="flex justify-start pl-2 px-auto">
+      <div class="text-lg font-semibold capitalize">brand name</div>
+      
+    </div>
+     <div class="flex justify-center px-auto">
+      <div class="flex justify-start text-md text-gray-500 font-semibold capitalize  w-full px-2 h-10 overflow-hidden">product description </div>
+    </div>
+      <div class="flex justify-between px-2">
+      <div class="text-base font-semibold mt-2">₹1,099</div>
+      <button class="bg-yellow-300 h-8 w-24 rounded hover:bg-yellow-400 hover:scale-110">Add Cart</button>
+    </div>
+    <div class="flex justify-center mt-4 mb-4">
+      
+    </div>
+
+    
+  </div>
+  <div class="bg-white w-80 h-95  flex-col justify-center rounded-lg m-2">
+    
+    <div><img class="rounded-t-lg" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80" alt="image"></div>
+    <div class="flex justify-start pl-2 px-auto">
+      <div class="text-lg font-semibold capitalize">brand name</div>
+      
+    </div>
+     <div class="flex justify-center px-auto">
+      <div class="flex justify-start text-md text-gray-500 font-semibold capitalize  w-full px-2 h-10 overflow-hidden">product description </div>
+    </div>
+      <div class="flex justify-between px-2">
+      <div class="text-base font-semibold mt-2">₹1,099</div>
+      <button class="bg-yellow-300 h-8 w-24 rounded hover:bg-yellow-400 hover:scale-110">Add Cart</button>
+    </div>
+    <div class="flex justify-center mt-4 mb-4">
+      
+    </div>
+
+    
+  </div>
+  </section>
+</div>
