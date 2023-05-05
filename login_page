@@ -1,0 +1,30 @@
+<div class="flex h-screen items-center justify-center md:bg-violet-200">
+  <!--image division-->
+  <div class="invisible relative flex h-full w-1/2 items-center justify-center md:visible">
+    <div><img class="mx-auto" src="data:image/jpeg;base64,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" /></div>
+  </div>
+  <!--login box-->
+  <div class="flex flex-1 items-center justify-center relative px-20">
+  <!-- <div class="sm:w-full flex h-full items-center justify-center border border-black md:w-1/2">-->
+    <div class="rounded-lg bg-white p-5 lg:w-96">
+      <h1 class="text-center text-2xl font-semibold">Login</h1>
+      <hr />
+      <div>
+        <label for="username" class="mb-2 mt-4 block text-left">UserName</label>
+        <input type="text" id="username" class="rounded-md border border-black border-opacity-30 pl-1 focus:outline-current" placeholder="Enter UserName" />
+      </div>
+      <div>
+        <label for="password" class="mb-2 mt-4 block text-left">PassWord</label>
+        <input type="text" id="password" class="rounded-md border border-black border-opacity-30 pl-1 focus:outline-current" placeholder="Enter PassWord" />
+      </div>
+      <div class="mt-4 flex justify-between">
+        <div><a href="#">Signup</a></div>
+        <div class="text-red-600"><a href="#">Forgot paassword?</a></div>
+      </div>
+
+      <!--<div class="mt-5 mx-auto border border-black rounded-md w-3/5  flex item-center justify-center "><div class="p-0.5 text-center font-semibold "><button>Sign in</button></div></div>-->
+      <button class=" mt-6 mx-auto border border-black rounded-md w-3/5  block item-center justify-center font-semibold bg-violet-500 text-white hover:bg-violet-700 ">sign in</button>
+    </div>
+  </div>
+  <!--login box end-->
+</div>
